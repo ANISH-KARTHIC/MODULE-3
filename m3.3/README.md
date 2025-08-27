@@ -3,14 +3,14 @@
 **DESCRIPTION**: 
 A simple guessing game using conditions where the computer asks if the number is 3. 
 
-**EXPECTED OUTPUT:**
+### **EXPECTED OUTPUT:**
 
-**OUTPUT 1**
-Is it 3? 
-Number in 1 tries! 
-Thank you for playing!
+#### **OUTPUT 1**
+Is it 3? <br>
+Number in 1 tries! <br>
+Thank you for playing!<br>
 
-**OUTPUT 2**
-Is it 3? 
-I don't understand that!
-Thank you for playing!
+#### **OUTPUT 2**
+Is it 3? <br>
+I don't understand that!<br>
+Thank you for playing!<br>
